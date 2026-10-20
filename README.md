@@ -15,7 +15,7 @@ Hello, I am a recent graduate in Software Engineering from [An Giang University]
   </a>
 </p>
 
-<h2 align="center">🤝 Support</h2>
+<h3 align="center">🤝 Support</h3>
 
 <p align="center">🎀 Contributions, 🔥 issues, and 🥮 feature requests are most welcome!</p>
 
