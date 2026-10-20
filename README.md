@@ -6,7 +6,7 @@
   <h3> 💻 Software Engineer | 📍Viet Nam </h3>
 </div>
  
-Hello, I am a recent graduate in Software Engineering from [An Giang University](https://www.agu.edu.vn/). I'm a Fresher. My tech stack includes JavaScript/TypeScript and their frameworks and libraries. Besides programming, I have an interest in music.
+Hello, I am a recent graduate in Software Engineering from [An Giang University](https://www.agu.edu.vn/). I'm a Fresher. My tech stack includes Js/Ts and their frameworks and libraries. Besides programming, I have an interest in music.
 
 **Languages and Tools:**
 <p align="center">
