@@ -3,8 +3,28 @@
 </div>
 
 <div align="center">
-  <h3> 🙎 Doan Trong Nhan | 💻 Software Engineer |📍 Viet Nam </h3>
+  <h3> 🙎 Doan Trong Nhan | 💻 Software Engineer | 📍Viet Nam </h3>
 </div>
 
 ### - Languages and Tools...
-  [![My Skills](https://skillicons.dev/icons?i=java,kotlin,nodejs,figma&theme=dark)](https://skillicons.dev)
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=js,ts,postgresql,nodejs,nestjs,react,vite,prisma,github,docker,postman&theme=dark" alt="My Skills">
+  </a>
+</p>
+
+<br />
+
+<h2 align="center">🤝 Support</h2>
+
+<p align="center">🎀 Contributions, 🔥 issues, and 🥮 feature requests are most welcome!</p>
+
+<p align="center">💙 If you like my projects, Give them ⭐ and Share it with friends!</p>
+</p>
+<p align="center">Made with ❤️ in Viet Nam</p>
+
+<h1 align='center'>⚡️<i>Stay awesome!</i>⚡️</h1>
+
+<p align="center">
+        <img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" alt="Github Stats" />
+</p>
