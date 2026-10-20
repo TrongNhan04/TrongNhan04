@@ -3,10 +3,12 @@
 </div>
 
 <div align="center">
-  <h3> 🙎 Doan Trong Nhan | 💻 Software Engineer | 📍Viet Nam </h3>
+  <h3> 💻 Software Engineer | 📍Viet Nam </h3>
 </div>
+ 
+Hello, I am a recent graduate in Software Engineering from [An Giang University](https://www.agu.edu.vn/). I'm a Fresher. My tech stack includes JavaScript/TypeScript and their frameworks and libraries. Besides programming, I have an interest in music.
 
-### - Languages and Tools...
+**Languages and Tools:**
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=js,ts,postgresql,nodejs,nestjs,react,vite,prisma,github,docker,postman&theme=dark" alt="My Skills">
