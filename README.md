@@ -13,8 +13,6 @@
   </a>
 </p>
 
-<br />
-
 <h2 align="center">🤝 Support</h2>
 
 <p align="center">🎀 Contributions, 🔥 issues, and 🥮 feature requests are most welcome!</p>
