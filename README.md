@@ -3,7 +3,7 @@
 </div>
 
 <div align="center">
-  <h3> 💻 Software Engineer | 📍Viet Nam </h3>
+  <h3> 🙎 Doan Trong Nhan |💻 Software Engineer |📍Viet Nam </h3>
 </div>
  
 Hello, I am a recent graduate in Software Engineering from [An Giang University](https://www.agu.edu.vn/). I'm a Fresher. My tech stack includes Js/Ts and their frameworks and libraries. Besides programming, I have an interest in music.
